@@ -1,0 +1,13 @@
+{
+  "files": {
+    "main.css": "/sonali-er/Todolist/static/css/main.285af493.css",
+    "main.js": "/sonali-er/Todolist/static/js/main.1c1b8123.js",
+    "index.html": "/sonali-er/Todolist/index.html",
+    "main.285af493.css.map": "/sonali-er/Todolist/static/css/main.285af493.css.map",
+    "main.1c1b8123.js.map": "/sonali-er/Todolist/static/js/main.1c1b8123.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.285af493.css",
+    "static/js/main.1c1b8123.js"
+  ]
+}
